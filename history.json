@@ -1,0 +1,71 @@
+{
+  "2025-09-24": [
+    {
+      "word": "narwhal",
+      "pronunciation": "/ˈnɑːwəl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/narwhal-uk.mp3",
+      "meaning": "Monodon monoceros, an Arctic cetacean that grows to about 20 feet (6 meters) long, the male having a single horn-like tusk, a twisted, pointed canine tooth that projects forward.",
+      "example": "No example sentence available.",
+      "synonyms": [
+        "sea unicorn"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "orca",
+      "pronunciation": "/ˈɔː(ɹ).kə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/orca-ca.mp3",
+      "meaning": "A sea mammal (Orcinus orca) related to dolphins and porpoises, commonly called the killer whale.",
+      "example": "No example sentence available.",
+      "synonyms": [
+        "blackfish",
+        "grampus",
+        "killer whale"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "barrel",
+      "pronunciation": "/ˈbæɹəl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barrel-us.mp3",
+      "meaning": "A round vessel or cask, of greater length than breadth, and bulging in the middle, made of staves bound with hoops, and having flat ends or heads. Sometimes applied to a similar cylindrical container made of metal, usually called a drum.",
+      "example": "a cracker barrel",
+      "synonyms": [
+        "cask",
+        "tun"
+      ],
+      "antonyms": []
+    }
+  ],
+  "2025-09-25": [
+    {
+      "word": "athlete",
+      "pronunciation": "/ˈæθ.lit/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/athlete-us.mp3",
+      "meaning": "A participant in a group of sporting activities which includes track and field, road running, cross country running and racewalking.",
+      "example": "She's the first athlete in her sport to obtain a corporate sponsor.",
+      "synonyms": [
+        "sportsperson"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "homesickness",
+      "pronunciation": "",
+      "audio": "",
+      "meaning": "The characteristic of being homesick; a strong, sad feeling of missing one's home (and often left-behind loved ones, such as family and friends) when physically away.",
+      "example": "No example sentence available.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "rep",
+      "pronunciation": "/ɹɛp/",
+      "audio": "",
+      "meaning": "To represent; to act as a representative for.",
+      "example": "No example sentence available.",
+      "synonyms": [],
+      "antonyms": []
+    }
+  ]
+}
