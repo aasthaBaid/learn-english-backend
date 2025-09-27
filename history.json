@@ -67,5 +67,40 @@
       "synonyms": [],
       "antonyms": []
     }
+  ],
+  "2025-09-27": [
+    {
+      "word": "weatherman",
+      "pronunciation": "",
+      "audio": "",
+      "meaning": "A person, especially a male one, who reports the weather conditions or forecasts.",
+      "example": "No example sentence available.",
+      "synonyms": [],
+      "antonyms": []
+    },
+    {
+      "word": "peri",
+      "pronunciation": "/ˈpɪə.ɹi/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/peri-au.mp3",
+      "meaning": "(Persian mythology) A sprite or supernatural being.",
+      "example": "No example sentence available.",
+      "synonyms": [
+        "fairy",
+        "pixie",
+        "sprite"
+      ],
+      "antonyms": []
+    },
+    {
+      "word": "goldenseal",
+      "pronunciation": "",
+      "audio": "",
+      "meaning": "Hydrastis canadensis, a perennial herb of the buttercup family, native to southeastern Canada and the northeastern United States, with a thick, yellow knotted rootstock and diverse medicinal properties.",
+      "example": "No example sentence available.",
+      "synonyms": [
+        "orangeroot"
+      ],
+      "antonyms": []
+    }
   ]
 }
